@@ -1,0 +1,15 @@
+
+@import "loader.css";
+@import "themes.css";
+@import "reboot.css";
+
+.hidden {
+  display: none;
+}
+
+#app {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,5 @@
+{
+  "issuer": "https://<OKTA_DOMAIN>/oauth2/default",
+  "clientId": "OKTA_CLIENT_ID",
+  "redirectUri": "URL_OF_THIS_WEBPAGE"
+}
